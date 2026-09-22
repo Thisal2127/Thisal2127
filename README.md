@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Thisal Jayasinghe">
+ <img src="./banner.png" width="100%" alt="Thisal Jayasinghe">
 </p>
 
 <div align="center">
